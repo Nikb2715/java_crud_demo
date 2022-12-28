@@ -19,3 +19,4 @@ mv CrudDemoWithMySql-0.0.1-SNAPSHOT.war CrudDemoWithMySql.war
 cp CrudDemoWithMySql.war /tmp/artifacts
 cp /tmp/artifacts/CrudDemoWithMySql.war /usr/share/tomcat/webapps
 sudo systemctl start tomcat
+hi
